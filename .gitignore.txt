@@ -1,0 +1,8 @@
+# Ignore Unity-generated files
+[TEMP]
+Temp/
+Library/
+Obj/
+Build/
+.vs/
+.idea/
