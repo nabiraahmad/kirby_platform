@@ -1,0 +1,4342 @@
+fileFormatVersion: 2
+guid: 4350fe7ba34a2a34ca5bc1e73670ac45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4925219603610798937
+    second: ball_kirby_0
+  - first:
+      213: -150779020510893973
+    second: ball_kirby_1
+  - first:
+      213: 8426445806086925997
+    second: ball_kirby_2
+  - first:
+      213: -8894479438245571044
+    second: ball_kirby_3
+  - first:
+      213: 1053133899342016009
+    second: ball_kirby_4
+  - first:
+      213: -5768621873813634357
+    second: ball_kirby_5
+  - first:
+      213: -441806667667757411
+    second: ball_kirby_6
+  - first:
+      213: -3293621711741566048
+    second: ball_kirby_7
+  - first:
+      213: -505599859846804587
+    second: ball_kirby_8
+  - first:
+      213: 214141552021769989
+    second: ball_kirby_9
+  - first:
+      213: -3324910474573281951
+    second: ball_kirby_10
+  - first:
+      213: -4971270049802248968
+    second: ball_kirby_11
+  - first:
+      213: 7192766796821735604
+    second: ball_kirby_12
+  - first:
+      213: 1973232941137213990
+    second: ball_kirby_13
+  - first:
+      213: 2827585272024842224
+    second: ball_kirby_14
+  - first:
+      213: -3059762734161964214
+    second: ball_kirby_15
+  - first:
+      213: 4036848990079298056
+    second: ball_kirby_16
+  - first:
+      213: -7622055035208058724
+    second: ball_kirby_17
+  - first:
+      213: 9109532026327783161
+    second: ball_kirby_18
+  - first:
+      213: -6383072617369800576
+    second: ball_kirby_19
+  - first:
+      213: -6946343842361183506
+    second: ball_kirby_20
+  - first:
+      213: 3071485192353967276
+    second: ball_kirby_21
+  - first:
+      213: -7797396511038534202
+    second: ball_kirby_22
+  - first:
+      213: 5782111105484324893
+    second: ball_kirby_23
+  - first:
+      213: 2980046338881191903
+    second: ball_kirby_24
+  - first:
+      213: 8051101812016243045
+    second: ball_kirby_25
+  - first:
+      213: -1757141970985626532
+    second: ball_kirby_26
+  - first:
+      213: 8975182137204196057
+    second: ball_kirby_27
+  - first:
+      213: -7530608647795695147
+    second: ball_kirby_28
+  - first:
+      213: 3886416031095801677
+    second: ball_kirby_29
+  - first:
+      213: 6107082419838624119
+    second: ball_kirby_30
+  - first:
+      213: 292571989337766183
+    second: ball_kirby_31
+  - first:
+      213: 3865389480911963349
+    second: ball_kirby_32
+  - first:
+      213: -4066564314241949089
+    second: ball_kirby_33
+  - first:
+      213: 339982513600636857
+    second: ball_kirby_34
+  - first:
+      213: 8812587249990346777
+    second: ball_kirby_35
+  - first:
+      213: -8472961217624490348
+    second: ball_kirby_36
+  - first:
+      213: 5690579735159116498
+    second: ball_kirby_37
+  - first:
+      213: -6358908881868698122
+    second: ball_kirby_38
+  - first:
+      213: -5432673194656731791
+    second: ball_kirby_39
+  - first:
+      213: 5386089140748541334
+    second: ball_kirby_40
+  - first:
+      213: -2101862262335231174
+    second: ball_kirby_41
+  - first:
+      213: 3789624700630466673
+    second: ball_kirby_42
+  - first:
+      213: 617741031669269926
+    second: ball_kirby_43
+  - first:
+      213: 7165151546079640336
+    second: ball_kirby_44
+  - first:
+      213: -2239276858773216760
+    second: ball_kirby_45
+  - first:
+      213: 149165715421067674
+    second: ball_kirby_46
+  - first:
+      213: 3587804587160142810
+    second: ball_kirby_47
+  - first:
+      213: -7208722926219639397
+    second: ball_kirby_48
+  - first:
+      213: 7206314372426179479
+    second: ball_kirby_49
+  - first:
+      213: 7367480133652965247
+    second: ball_kirby_50
+  - first:
+      213: 5117173913160672927
+    second: ball_kirby_51
+  - first:
+      213: -7495990552535420735
+    second: ball_kirby_52
+  - first:
+      213: -6548633505816167046
+    second: ball_kirby_53
+  - first:
+      213: -320212332660851920
+    second: ball_kirby_54
+  - first:
+      213: -4849498072351023267
+    second: ball_kirby_55
+  - first:
+      213: 8931543676944157255
+    second: ball_kirby_56
+  - first:
+      213: 4160245633825839446
+    second: ball_kirby_57
+  - first:
+      213: 5848988769366070935
+    second: ball_kirby_58
+  - first:
+      213: 8989342312801804584
+    second: ball_kirby_59
+  - first:
+      213: 6457117820501224947
+    second: ball_kirby_60
+  - first:
+      213: 4338289972624134870
+    second: ball_kirby_61
+  - first:
+      213: 7318133675850641323
+    second: ball_kirby_62
+  - first:
+      213: 5192207957776428870
+    second: ball_kirby_63
+  - first:
+      213: 6951854735095173570
+    second: ball_kirby_64
+  - first:
+      213: 4059873395749414452
+    second: ball_kirby_65
+  - first:
+      213: 6332538665509134501
+    second: ball_kirby_66
+  - first:
+      213: -1169475028504498256
+    second: ball_kirby_67
+  - first:
+      213: -6927499919175582613
+    second: ball_kirby_68
+  - first:
+      213: 5888094298780289289
+    second: ball_kirby_69
+  - first:
+      213: 6684561961392533858
+    second: ball_kirby_70
+  - first:
+      213: 1273163092719217052
+    second: ball_kirby_71
+  - first:
+      213: -4159014094010006256
+    second: ball_kirby_72
+  - first:
+      213: -6246596648749568119
+    second: ball_kirby_73
+  - first:
+      213: 8058025840240371748
+    second: ball_kirby_74
+  - first:
+      213: -4294516744581486409
+    second: ball_kirby_75
+  - first:
+      213: 6672600453312372105
+    second: ball_kirby_76
+  - first:
+      213: -2377082341334502205
+    second: ball_kirby_77
+  - first:
+      213: -8193941426826984188
+    second: ball_kirby_78
+  - first:
+      213: 8606715486877827386
+    second: ball_kirby_79
+  - first:
+      213: 3531941459310824108
+    second: ball_kirby_80
+  - first:
+      213: 6676284676634392026
+    second: ball_kirby_81
+  - first:
+      213: -6881394647076165399
+    second: ball_kirby_82
+  - first:
+      213: 1887542134772076506
+    second: ball_kirby_83
+  - first:
+      213: -5914866571342395777
+    second: ball_kirby_84
+  - first:
+      213: 6352680111171860167
+    second: ball_kirby_85
+  - first:
+      213: 8157106075666521685
+    second: ball_kirby_86
+  - first:
+      213: 5700473841050698074
+    second: ball_kirby_87
+  - first:
+      213: -5272343936394955827
+    second: ball_kirby_88
+  - first:
+      213: 2928705688685975886
+    second: ball_kirby_89
+  - first:
+      213: -6918320564592351260
+    second: ball_kirby_90
+  - first:
+      213: -2964408141315229422
+    second: ball_kirby_91
+  - first:
+      213: 9158414334305264333
+    second: ball_kirby_92
+  - first:
+      213: 3275299058342976021
+    second: ball_kirby_93
+  - first:
+      213: 981932746920176600
+    second: ball_kirby_94
+  - first:
+      213: -5589868534404285971
+    second: ball_kirby_95
+  - first:
+      213: 7245720033231633778
+    second: ball_kirby_96
+  - first:
+      213: -2440022394960254725
+    second: ball_kirby_97
+  - first:
+      213: -136194406466010122
+    second: ball_kirby_98
+  - first:
+      213: 4980194155456862938
+    second: ball_kirby_99
+  - first:
+      213: 6482423120231718399
+    second: ball_kirby_100
+  - first:
+      213: -1382809490537085279
+    second: ball_kirby_101
+  - first:
+      213: -4386083055272623828
+    second: ball_kirby_102
+  - first:
+      213: 7036648976660796742
+    second: ball_kirby_103
+  - first:
+      213: -5855938944300836611
+    second: ball_kirby_104
+  - first:
+      213: 7243738404493730319
+    second: ball_kirby_105
+  - first:
+      213: -7646377276295995556
+    second: ball_kirby_106
+  - first:
+      213: -5559100773444318776
+    second: ball_kirby_107
+  - first:
+      213: -4533348781337491101
+    second: ball_kirby_108
+  - first:
+      213: 4357023519863733506
+    second: ball_kirby_109
+  - first:
+      213: -5803222432448389731
+    second: ball_kirby_110
+  - first:
+      213: 7838140544914391825
+    second: ball_kirby_111
+  - first:
+      213: -4251594289801882268
+    second: ball_kirby_112
+  - first:
+      213: 1016648707074490813
+    second: ball_kirby_113
+  - first:
+      213: -8297459748513737423
+    second: ball_kirby_114
+  - first:
+      213: 649649884848531663
+    second: ball_kirby_115
+  - first:
+      213: 8336404762501511717
+    second: ball_kirby_116
+  - first:
+      213: 2504379495256046414
+    second: ball_kirby_117
+  - first:
+      213: 8531881807906999936
+    second: ball_kirby_118
+  - first:
+      213: 7195702348502532450
+    second: ball_kirby_119
+  - first:
+      213: 8970048026487390463
+    second: ball_kirby_120
+  - first:
+      213: -8231761230109431101
+    second: ball_kirby_121
+  - first:
+      213: 977694440531792621
+    second: ball_kirby_122
+  - first:
+      213: 6911680056477145292
+    second: ball_kirby_123
+  - first:
+      213: -4467254715043853842
+    second: ball_kirby_124
+  - first:
+      213: -3709044993875704106
+    second: ball_kirby_125
+  - first:
+      213: -4372919684814553261
+    second: ball_kirby_126
+  - first:
+      213: 232819459292698584
+    second: ball_kirby_127
+  - first:
+      213: -3887700436520034290
+    second: ball_kirby_128
+  - first:
+      213: 7268950352124133274
+    second: ball_kirby_129
+  - first:
+      213: -5344834823897249498
+    second: ball_kirby_130
+  - first:
+      213: -761452459690487698
+    second: ball_kirby_131
+  - first:
+      213: -3159716064090693335
+    second: ball_kirby_132
+  - first:
+      213: 1053811398845274761
+    second: ball_kirby_133
+  - first:
+      213: -5254147475893194519
+    second: ball_kirby_134
+  - first:
+      213: 6347715572410852052
+    second: ball_kirby_135
+  - first:
+      213: 7479075877475448845
+    second: ball_kirby_136
+  - first:
+      213: -2774249009996126384
+    second: ball_kirby_137
+  - first:
+      213: 6158462132481001007
+    second: ball_kirby_138
+  - first:
+      213: 5344442249499819631
+    second: ball_kirby_139
+  - first:
+      213: -3778043012646779306
+    second: ball_kirby_140
+  - first:
+      213: -1399886972184327306
+    second: ball_kirby_141
+  - first:
+      213: 5491118890186367791
+    second: ball_kirby_142
+  - first:
+      213: -177979786188867144
+    second: ball_kirby_143
+  - first:
+      213: -991825171748341945
+    second: ball_kirby_144
+  - first:
+      213: 3821959120544494982
+    second: ball_kirby_145
+  - first:
+      213: 3238363408177540363
+    second: ball_kirby_146
+  - first:
+      213: 7242135086787831078
+    second: ball_kirby_147
+  - first:
+      213: 400345269133518634
+    second: ball_kirby_148
+  - first:
+      213: -156298839853655028
+    second: ball_kirby_149
+  - first:
+      213: 9040980185571361992
+    second: ball_kirby_150
+  - first:
+      213: 3073372470962902534
+    second: ball_kirby_151
+  - first:
+      213: 7282861943093427408
+    second: ball_kirby_152
+  - first:
+      213: 3645790023439577220
+    second: ball_kirby_153
+  - first:
+      213: -1881939725429848321
+    second: ball_kirby_154
+  - first:
+      213: 6022899409849908287
+    second: ball_kirby_155
+  - first:
+      213: 1230328867966528495
+    second: ball_kirby_156
+  - first:
+      213: 8345059787672151244
+    second: ball_kirby_157
+  - first:
+      213: -2045135391671835426
+    second: ball_kirby_158
+  - first:
+      213: -8999909063183637251
+    second: ball_kirby_159
+  - first:
+      213: -5041559937833796219
+    second: ball_kirby_160
+  - first:
+      213: 8638021018512924293
+    second: ball_kirby_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ball_kirby_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 621
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00880402a86d241b37576429e5d56e
+      internalID: 790633670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 621
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0ddc1b1544a8a40933c03c8cceb2f7
+      internalID: 1144444265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 617
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc7bdf6a0ca1114d868b72e88642cf3
+      internalID: -1977229306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 617
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7a58dc8c12e9438dd08e860bd782c
+      internalID: 2137479765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 616
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eb5b092d4790e41b226702597a5a20
+      internalID: -1684343632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 616
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04554f09e7100a4bafd2ebdb2b58e5e
+      internalID: -233134140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 617
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65baf2d62c238144b876d20127a9f074
+      internalID: -635761207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 616
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afadae4626bcf3140b9c9d3288031d18
+      internalID: 576081448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 616
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2561bf15c14a246b7c2092703ce5cd
+      internalID: 506296000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 596
+        width: 236
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0562322cd1e8dad4f8eebe310d5b1736
+      internalID: 1017199294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 574
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be28ddf2436de06418e45f9a0cef5f2d
+      internalID: -1048292666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 550
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b45aed30c543ae498069f5c1e5c3ff1
+      internalID: -2042703422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 551
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c6483eaecae61479056e6212e3cd5b
+      internalID: -345678927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d73eef1561e984093f12ffe610acd1
+      internalID: 181177169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 551
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db94c0704d3e14dbab73b403dcd3b0
+      internalID: -1719820109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 551
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad9b625f24a614ba3e34963a4e2758
+      internalID: 1767177032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 551
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac7a46ab51af354b9a1e034162a1335
+      internalID: -1428756029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590a1ca90bb677c4bbf23124342b6f81
+      internalID: 104793693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 551
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da440fb7aabcbbb4ba1bdb57e85c8cb8
+      internalID: -578136782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 551
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595667d575f8de347a59f82134a52bd0
+      internalID: 1889645526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 526
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88086ebf02aa6147b67c99a0f763cc9
+      internalID: -2099276554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 526
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f146a8b9146f48af4a0726ff9de7b
+      internalID: 358704758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 526
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5166a5890cd4bc846b2e38bd37444c9d
+      internalID: 1040848092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 526
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552be0503c05b524db2b011e6e5d42be
+      internalID: -876519155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 527
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dce2d1fb253914093b81c86ddd95a4
+      internalID: -1616176663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 527
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0047388b09154589193c417bca5e0
+      internalID: -2049070787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 527
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53312c6d4bfd5543a8ce78c93783e88
+      internalID: 1931433221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 526
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83011044f7aef4347b09465e1cf2d3a2
+      internalID: 1300284445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 502
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39e7cbc800928d4a9a448f306f57dec
+      internalID: 628248758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 502
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21595b0e95bfbe4dbb989e0f1ee3738
+      internalID: 1282388747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 501
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0359330714f4af04bb7a55a0ea593cbf
+      internalID: -629825248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 501
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c80b7855ae1c3c46ac5ea67495a5985
+      internalID: 1318059626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 502
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c374abf14cd64e04d9835336bbb18062
+      internalID: -1704685558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 501
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470feb8ff01b5854cbe5e04514d082f6
+      internalID: -988257674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 503
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a7704b30e24f418bca95c62aa76f3
+      internalID: -2143888864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 503
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5efc36e068d5ea479fcc9d6506c1633
+      internalID: 1512242108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d70321e321adee45a172d4fbf2d7762
+      internalID: 1041973355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 504
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2217838e586d24db7f0532c4c7ca5c
+      internalID: 2030622724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 504
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1045c91c3fc6a504caba10640de056a8
+      internalID: -1342300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 504
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6db2d59a71f5459e7c8e349f4326e
+      internalID: -669086829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 504
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5985320d89dc054ca6b81f24830d9b5
+      internalID: -39857562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 504
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee0c3504d06b94583d128a22944eb3
+      internalID: -949850060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 474
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d39b4324a36f40b649243e241739d
+      internalID: -303371799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 475
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b3c1f8cd59acb47b1fc1803488ba67
+      internalID: 378576928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 475
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac4e8d4c86daa4daa17396dc1676d3
+      internalID: -1478035212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 474
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09bdcdf51bf00840ba8eaecfb15a8a0
+      internalID: -1599361851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 473
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64413022366c2da48bd97bf36681c311
+      internalID: 317629339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 473
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1abfb4cfc78d64dbd0afa14442d76d
+      internalID: -1235127247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 473
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f552d1037ced841bf7391c7793ce69
+      internalID: -433734721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 445
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15164f00f65be224da035f8b8d7a1785
+      internalID: 180338659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_50
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 446
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce620dbb8c5d09b4f897943709688b4c
+      internalID: -497011905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 446
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb575070b2e8086459764f2ff4e4e4c3
+      internalID: -1564427453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 446
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fbc214165ae5d48938d138c716a19f
+      internalID: -1267653363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 447
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf970d1041f8e4784c68ddd7a9b5a6
+      internalID: -1263929370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 446
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4282f30196aa56d46829e6df2614a579
+      internalID: -1874654223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 446
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc93bfb12f7ec8b4f82e9875c393bd62
+      internalID: 1955534393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_56
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 446
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e566a9cd1d70aff47a18270e66645190
+      internalID: -526810374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 418
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a93d2a643d274468611172eeac2cce
+      internalID: 312210147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_58
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 419
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667d878648350cf46bc57566734e6221
+      internalID: 509363251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_59
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 419
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc560b05d925245908fb70163c27af
+      internalID: -631508415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 419
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be5280f997532549bf3932c4b3f52b0
+      internalID: -1809000579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_61
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 420
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb0e178805bc94d88285443b9bd575
+      internalID: 414885043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 419
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e20c594571b2a47bd919c77814f71a
+      internalID: 805826514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 390
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6876dd5a6efa34fbfb131cf3f48fe2
+      internalID: 1992481549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_64
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 390
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3670ec3c0aa7b0e4386d63e9b85d33a9
+      internalID: -1454014189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_65
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 390
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d3c24a9f5d604cb5e2db618d8d1a1
+      internalID: 329253252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 390
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf4c4020b7ff44f9bf9507809d1a85
+      internalID: -1768085688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 363
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc36949fa5e45d64aab2822481974ace
+      internalID: -1985652761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 363
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733eb422f39f48e45a06c5b0c03e6dc2
+      internalID: 1434921921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 363
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0e12b55b417ff49b690ef002e1fdaa
+      internalID: -1265782731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 363
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf51e143c0a8344da2c9244681220ab
+      internalID: 1869656668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_71
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 363
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a6d16842bf1442961689a8a6a6d59
+      internalID: 1906678747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 333
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accb71d95691f46488fec02d56147557
+      internalID: 37554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_73
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 333
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27079a6db56d6ab438f4ad2291165cfc
+      internalID: -1754705953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_74
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 334
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc26c29f3dc9f6469ae74d4e4f77a3c
+      internalID: -1862166046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 334
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb9ea58e972634a8b4e9e00c6a58a3
+      internalID: -840755209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 334
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0363ff9e1029aac46bdc6bacdc5e7a61
+      internalID: -892643774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_77
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 335
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27712328f04ad40acdae5c1216de24
+      internalID: -569992614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_78
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 334
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf077b7e67b8648a886feada45be1e
+      internalID: 959426277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_79
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 334
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c84a6f886e05438e6c712c23a5d23
+      internalID: -1978504521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ccd8a1b8611a4ea8a21f68f9f2e05
+      internalID: 1902161014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 306
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3014abe2840690b4ba79bd462ed35d3d
+      internalID: 1501960586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_82
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 307
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fcee15d8d91fe4b8a9da1a10869d3c
+      internalID: 1435531655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 283
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed66e1a3600f734f9a4f3799a34e0e0
+      internalID: -1729037784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 283
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1a221fdbdd03a40bfc543f79897366
+      internalID: -162356314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44272b784b606d4fa691a7d722e859b
+      internalID: -966532242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_86
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 261
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd19b772c0589c4f96db652d56769de
+      internalID: -1301879459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 238
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae59beceb098af145aa4858810347210
+      internalID: 1726994993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_88
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 238
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff8ab7b3fcf8844189912b5cc7422be
+      internalID: -1734135718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_89
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 238
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89b5998119e47049a03b624a4e88ca4
+      internalID: -1131186451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 238
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b00d9f16d1cfe244b14d50de5222bb9
+      internalID: -336944743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 238
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ca53aafd878a488ae9c18e340e84d
+      internalID: -297173382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_92
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 237
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead92b40258a754f808ba712993fad0
+      internalID: -92432061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 238
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89851478320d62547a00e15af5687ed4
+      internalID: 1546476999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_94
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 238
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe658777cce67f84485e5ca0edc256ca
+      internalID: -874192603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 238
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4349dedd43a42a84ca158e296ed17cb6
+      internalID: -1673873622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_96
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 237
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b8bcd0ea383834fab93c2a8b5c2d49
+      internalID: -909328795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea6cee6e02615149ae882dbf772034a
+      internalID: 1870864332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_98
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 211
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414ff656b8fe72d4abfd445f41362d5d
+      internalID: -29037903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_99
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 211
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad7fdddfa72af649bea9a618751e8b7
+      internalID: -1413760995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_100
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 211
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac79ef98b1d57f4abc3e2264e2c3c8d
+      internalID: 389183795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_101
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 184
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea03f89fa070054491769a1333d53a3
+      internalID: -407331977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_102
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 184
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8581a222275da5447a61615f2108c4ed
+      internalID: -149817485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_103
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 184
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b727d7205c0b1b64a8dff7cd21dabbef
+      internalID: 1024247882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_104
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 184
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb4517845363f44f976cbebc7927c0d
+      internalID: 1020235502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 184
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8594886da95b14e93af0df0686d3cc
+      internalID: 1282937260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_106
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 184
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6424f0f191456ea4a8b903686d616b86
+      internalID: 1462364795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 154
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe40bdb6cc095b468228a0ac1d8c3f0
+      internalID: 1365663383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_108
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 131
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee4e3bd9406f34e9b24254878a4cd3
+      internalID: 1650649929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_109
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99142570615ca3e4ba438250cbfcaec9
+      internalID: 1457424848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_110
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 129
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbc4f5516cae414ea44f6f2f67e6f21
+      internalID: -1134534754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_111
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 128
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c63009779bb034ea08a0683304798d
+      internalID: -1140353224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_112
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899598f90e5f0ba4b9b58e7030b02501
+      internalID: 502677764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_113
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 126
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35b6058de0c04a4e86661e3b2ce11fe
+      internalID: -1337451694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_114
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5759abab30d3534281a0b778c99ee54
+      internalID: 798578141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_115
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51bd770a63edd7478c3628c825e68c6
+      internalID: -56304042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_116
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 131
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20390417473604b980c95ad5e148c9
+      internalID: -1289512927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_117
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 131
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b82563ac6aa1a41a4069c698a6e92f
+      internalID: -1317440469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_118
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 134
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077c5e7d250e434eb0977b4ee09e935
+      internalID: -765609507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_119
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 132
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94320683592ef604da53ec0da097f7ae
+      internalID: -1209830237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_120
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 132
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864f3f1e107e9f479dcd79cf0f34c06
+      internalID: 1534312496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_121
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 129
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6895a86a7f403774b8e37f414c1f633c
+      internalID: 563199698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_122
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 131
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd0f6f0becf0543977cdeba354e36c
+      internalID: 744902999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_123
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4064e3ee2fbb1ef47836aa8c7ae649bb
+      internalID: 1599155154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_124
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 97
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7992d673d76af4abd5bf09a6bcc02d
+      internalID: -1611010673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_125
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 98
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed83ea9393c3e1749acfead818b3fb79
+      internalID: 1510231059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_126
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc8f76fe2b5cea488c10f757fee4a62
+      internalID: -2146361442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_127
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6992edde4404834ea60d2984a40f42c
+      internalID: -1256260349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb921d88d7d474f885f9ebec27a891
+      internalID: 1959616811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_129
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 94
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79249351aaff214fb99a7305bcefd01
+      internalID: 1760711965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f18bf79e08d5f4fb7d61ee5f0a9598
+      internalID: -1901951367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf7a6fc0b7661499f733e90ccd144b
+      internalID: -53665382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_132
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a3be65e32d32745b003eceec822c18
+      internalID: 629353692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_133
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46068b1084dfccc43855d0b6a3dee88e
+      internalID: -1632579367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ad4571117c234f939f75fadb535a4
+      internalID: 878087129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_135
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490eef77dee78c646aeecec61ebb1bcb
+      internalID: -1409675594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_136
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 70
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87040e04a03909e46acc564f40036208
+      internalID: -883969576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_137
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3614b4ad5e1dc4f9fc2019da086efa
+      internalID: 636768690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_138
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 69
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15aaea29a361354c93ff1df2221b8de
+      internalID: 2015894993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 69
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45387b5c18d596343ab452cc219f5cd7
+      internalID: -1075674200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_140
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3676e92466a9d4194462a2d0574084
+      internalID: 1090825639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_141
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4264040b8cc04b4f9785620a15a4147
+      internalID: 880050360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_142
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 71
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4e4ca2d316ee46b62dc6cc54fd900
+      internalID: -860211164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_143
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 71
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf572947db129e54a8e02904565d1f04
+      internalID: -1731797067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_144
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244893cf4110a95438a660b14a50043c
+      internalID: 1237535701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_145
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74244df0c982c754daf2c1e6af308689
+      internalID: 1257635972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_146
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548c8edd15d93b548804f89334fd7b49
+      internalID: -363435269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_147
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 50
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9438c0404efea540927c14990cbccc9
+      internalID: 2111980431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_148
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba770a36ff337d4abe3e9ac106549ea
+      internalID: -1859941328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_149
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 50
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f518232a29ea45b7e3570e59acc58
+      internalID: -833726730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_150
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017b0878c821524996e828043323862
+      internalID: 645566175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_151
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 27
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b3740da567c8047b0ac5bf77e4d005
+      internalID: 1547993655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_152
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea358bc6be98b47a325576cb79b1fc
+      internalID: -514355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_153
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 29
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3e80588ebd94149baaa06f96edead2
+      internalID: -890595373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_154
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 27
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a68131cc49b5e4b8533bcd0cbd93a3
+      internalID: -227393261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_155
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a6a0b632cffd489b8390828e68b3b
+      internalID: 1062118373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_156
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a957b368f69954995453b8d8873a3d
+      internalID: 1605106754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_157
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303d93ef8272f3b4f8ee2ba7f866040e
+      internalID: 195040851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c7f9fced98fe42b714d224e4e08fa
+      internalID: -1635314664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_159
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca996b47c63141743a38c0db99075968
+      internalID: 369961102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_160
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a54be5c6d523478c8fd4892f53786
+      internalID: 364021480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_kirby_161
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab8f1e69dcdfc4cb3e937659d89aaa
+      internalID: 1172679716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ceb213bab60445c4c8ca90cac92f1cfe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ball_kirby_0: 790633670
+      ball_kirby_1: 1144444265
+      ball_kirby_10: -1048292666
+      ball_kirby_100: 389183795
+      ball_kirby_101: -407331977
+      ball_kirby_102: -149817485
+      ball_kirby_103: 1024247882
+      ball_kirby_104: 1020235502
+      ball_kirby_105: 1282937260
+      ball_kirby_106: 1462364795
+      ball_kirby_107: 1365663383
+      ball_kirby_108: 1650649929
+      ball_kirby_109: 1457424848
+      ball_kirby_11: -2042703422
+      ball_kirby_110: -1134534754
+      ball_kirby_111: -1140353224
+      ball_kirby_112: 502677764
+      ball_kirby_113: -1337451694
+      ball_kirby_114: 798578141
+      ball_kirby_115: -56304042
+      ball_kirby_116: -1289512927
+      ball_kirby_117: -1317440469
+      ball_kirby_118: -765609507
+      ball_kirby_119: -1209830237
+      ball_kirby_12: -345678927
+      ball_kirby_120: 1534312496
+      ball_kirby_121: 563199698
+      ball_kirby_122: 744902999
+      ball_kirby_123: 1599155154
+      ball_kirby_124: -1611010673
+      ball_kirby_125: 1510231059
+      ball_kirby_126: -2146361442
+      ball_kirby_127: -1256260349
+      ball_kirby_128: 1959616811
+      ball_kirby_129: 1760711965
+      ball_kirby_13: 181177169
+      ball_kirby_130: -1901951367
+      ball_kirby_131: -53665382
+      ball_kirby_132: 629353692
+      ball_kirby_133: -1632579367
+      ball_kirby_134: 878087129
+      ball_kirby_135: -1409675594
+      ball_kirby_136: -883969576
+      ball_kirby_137: 636768690
+      ball_kirby_138: 2015894993
+      ball_kirby_139: -1075674200
+      ball_kirby_14: -1719820109
+      ball_kirby_140: 1090825639
+      ball_kirby_141: 880050360
+      ball_kirby_142: -860211164
+      ball_kirby_143: -1731797067
+      ball_kirby_144: 1237535701
+      ball_kirby_145: 1257635972
+      ball_kirby_146: -363435269
+      ball_kirby_147: 2111980431
+      ball_kirby_148: -1859941328
+      ball_kirby_149: -833726730
+      ball_kirby_15: 1767177032
+      ball_kirby_150: 645566175
+      ball_kirby_151: 1547993655
+      ball_kirby_152: -514355
+      ball_kirby_153: -890595373
+      ball_kirby_154: -227393261
+      ball_kirby_155: 1062118373
+      ball_kirby_156: 1605106754
+      ball_kirby_157: 195040851
+      ball_kirby_158: -1635314664
+      ball_kirby_159: 369961102
+      ball_kirby_16: -1428756029
+      ball_kirby_160: 364021480
+      ball_kirby_161: 1172679716
+      ball_kirby_17: 104793693
+      ball_kirby_18: -578136782
+      ball_kirby_19: 1889645526
+      ball_kirby_2: -1977229306
+      ball_kirby_20: -2099276554
+      ball_kirby_21: 358704758
+      ball_kirby_22: 1040848092
+      ball_kirby_23: -876519155
+      ball_kirby_24: -1616176663
+      ball_kirby_25: -2049070787
+      ball_kirby_26: 1931433221
+      ball_kirby_27: 1300284445
+      ball_kirby_28: 628248758
+      ball_kirby_29: 1282388747
+      ball_kirby_3: 2137479765
+      ball_kirby_30: -629825248
+      ball_kirby_31: 1318059626
+      ball_kirby_32: -1704685558
+      ball_kirby_33: -988257674
+      ball_kirby_34: -2143888864
+      ball_kirby_35: 1512242108
+      ball_kirby_36: 1041973355
+      ball_kirby_37: 2030622724
+      ball_kirby_38: -1342300526
+      ball_kirby_39: -669086829
+      ball_kirby_4: -1684343632
+      ball_kirby_40: -39857562
+      ball_kirby_41: -949850060
+      ball_kirby_42: -303371799
+      ball_kirby_43: 378576928
+      ball_kirby_44: -1478035212
+      ball_kirby_45: -1599361851
+      ball_kirby_46: 317629339
+      ball_kirby_47: -1235127247
+      ball_kirby_48: -433734721
+      ball_kirby_49: 180338659
+      ball_kirby_5: -233134140
+      ball_kirby_50: -497011905
+      ball_kirby_51: -1564427453
+      ball_kirby_52: -1267653363
+      ball_kirby_53: -1263929370
+      ball_kirby_54: -1874654223
+      ball_kirby_55: 1955534393
+      ball_kirby_56: -526810374
+      ball_kirby_57: 312210147
+      ball_kirby_58: 509363251
+      ball_kirby_59: -631508415
+      ball_kirby_6: -635761207
+      ball_kirby_60: -1809000579
+      ball_kirby_61: 414885043
+      ball_kirby_62: 805826514
+      ball_kirby_63: 1992481549
+      ball_kirby_64: -1454014189
+      ball_kirby_65: 329253252
+      ball_kirby_66: -1768085688
+      ball_kirby_67: -1985652761
+      ball_kirby_68: 1434921921
+      ball_kirby_69: -1265782731
+      ball_kirby_7: 576081448
+      ball_kirby_70: 1869656668
+      ball_kirby_71: 1906678747
+      ball_kirby_72: 37554
+      ball_kirby_73: -1754705953
+      ball_kirby_74: -1862166046
+      ball_kirby_75: -840755209
+      ball_kirby_76: -892643774
+      ball_kirby_77: -569992614
+      ball_kirby_78: 959426277
+      ball_kirby_79: -1978504521
+      ball_kirby_8: 506296000
+      ball_kirby_80: 1902161014
+      ball_kirby_81: 1501960586
+      ball_kirby_82: 1435531655
+      ball_kirby_83: -1729037784
+      ball_kirby_84: -162356314
+      ball_kirby_85: -966532242
+      ball_kirby_86: -1301879459
+      ball_kirby_87: 1726994993
+      ball_kirby_88: -1734135718
+      ball_kirby_89: -1131186451
+      ball_kirby_9: 1017199294
+      ball_kirby_90: -336944743
+      ball_kirby_91: -297173382
+      ball_kirby_92: -92432061
+      ball_kirby_93: 1546476999
+      ball_kirby_94: -874192603
+      ball_kirby_95: -1673873622
+      ball_kirby_96: -909328795
+      ball_kirby_97: 1870864332
+      ball_kirby_98: -29037903
+      ball_kirby_99: -1413760995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

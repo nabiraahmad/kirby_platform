@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "kirby_platformer.sln"
+    "dotnet.defaultSolution": "kirby_platform.sln"
 }
