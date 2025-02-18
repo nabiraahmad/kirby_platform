@@ -4,70 +4,84 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    // Movement Variables
     public float speed = 5f;
     public float jumpForce = 10f;
     private float moveInput;
     private bool isGrounded;
+    private AudioSource audioSource;
+    public AudioClip deathSound;
 
-    // Components
     private Rigidbody2D rb;
-    private Animator anim;
-    private SpriteRenderer spriteRenderer;
-
-    // Ground Check
+    private Animator anim;  
+    private SpriteRenderer spriteRenderer;  
     public Transform groundCheck;
-    public float groundCheckRadius = 0.5f; // Increased radius for detection
+    public float groundCheckRadius = 0.3f; 
     public LayerMask groundLayer;
+
+    public Transform loseZoneCheck; // This is where we will check if Kirby falls off
+    public float fallThreshold = -10f;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        anim = transform.Find("kirbySprite").GetComponent<Animator>();
+        spriteRenderer = transform.Find("kirbySprite").GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
     }
 
-void Update()
-{
-    // Get Horizontal input
-    moveInput = Input.GetAxis("Horizontal");
-
-    // Move Kirby - Update Rigidbody2D velocity directly
-    rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
-
-    // If Animator is causing issues, disable it temporarily during movement
-    this.GetComponent<Animator>().enabled = false;  // Disable Animator temporarily
-
-    // Flip Kirby's sprite depending on direction
-    if (moveInput > 0)
-        spriteRenderer.flipX = false;
-    else if (moveInput < 0)
-        spriteRenderer.flipX = true;
-
-    // Enable Animator again for the jumping state
-    if (isGrounded)
+    void Update()
     {
-        this.GetComponent<Animator>().enabled = true;  // Re-enable Animator when grounded
-        anim.SetFloat("Speed", Mathf.Abs(moveInput)); // Set animation speed
-    }
-
-    // Jumping Logic
-    if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+          if (Input.GetKeyDown(KeyCode.Space))
     {
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-        anim.SetBool("isJumping", true);
-        isGrounded = false;
+        Debug.Log("Space key was pressed!");
     }
-}
-
-void FixedUpdate()
-{
-    // Ground check logic
-    isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
-
-    if (isGrounded)
+    
+    if (Input.GetKey(KeyCode.Space))
     {
-        anim.SetBool("isJumping", false);
+        Debug.Log("Space key is being held down!");
     }
-}
+        moveInput = Input.GetAxis("Horizontal");
+
+        rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+
+        if (moveInput > 0)
+            spriteRenderer.flipX = false;
+        else if (moveInput < 0)
+            spriteRenderer.flipX = true;
+
+
+        anim.SetFloat("Speed", Mathf.Abs(moveInput));
+
+        if (Input.GetKey(KeyCode.Space) && isGrounded)
+            {
+                Debug.Log("Jumping..."); 
+                anim.SetBool("isJumping", true); 
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce); 
+                isGrounded = false;  
+            }
+        
+        if (transform.position.y < fallThreshold)
+        {
+            // Play death sound
+            if (deathSound != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(deathSound); // Play the death sound once
+            }
+        }
+        
+    }
+
+    void FixedUpdate()
+    {
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        Debug.Log("Is Grounded: " + isGrounded);
+        Debug.Log("Velocity: " + rb.linearVelocity);
+        Debug.DrawRay(groundCheck.position, Vector2.down * groundCheckRadius, Color.red, 0.1f);
+
+        if (isGrounded)
+        {
+            anim.SetBool("isJumping", false);  
+        }
+    }
 }
