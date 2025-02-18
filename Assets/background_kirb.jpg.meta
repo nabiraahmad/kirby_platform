@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      background_kirb_0: 4918567745443459704
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
