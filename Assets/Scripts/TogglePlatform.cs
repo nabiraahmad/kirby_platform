@@ -9,12 +9,15 @@ public class TogglePlatform : MonoBehaviour
     public Sprite nonSolidSprite; // Assign in Inspector
     public GameObject toggleButton; // Assign the button GameObject in Inspector
 
-    private bool isSolid = true;
+    public bool startSolid = true; // Set initial state in the Inspector
+    private bool isSolid;
 
     private void Start()
     {
         platformCollider = GetComponent<Collider2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        isSolid = startSolid; // Set the initial state
         UpdatePlatformState();
     }
 
@@ -35,7 +38,7 @@ public class TogglePlatform : MonoBehaviour
     {
         if (toggleButton != null)
         {
-            // Rotate the button 180 degrees around the Z axis
+            // Rotate the button 180 degrees around the Z-axis
             toggleButton.transform.Rotate(0f, 180f, 0f);
         }
     }
