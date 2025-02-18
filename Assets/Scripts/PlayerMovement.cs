@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     private Animator anim;  
     private SpriteRenderer spriteRenderer;  
     public Transform groundCheck;
-    public float groundCheckRadius = 0.2f; 
+    public float groundCheckRadius = 0.3f; 
     public LayerMask groundLayer;
 
     void Start()
@@ -62,6 +62,7 @@ public class PlayerMovement : MonoBehaviour
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
         Debug.Log("Is Grounded: " + isGrounded);
         Debug.Log("Velocity: " + rb.linearVelocity);
+        Debug.DrawRay(groundCheck.position, Vector2.down * groundCheckRadius, Color.red, 0.1f);
 
         if (isGrounded)
         {
