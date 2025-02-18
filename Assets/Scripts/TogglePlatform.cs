@@ -36,7 +36,7 @@ public class TogglePlatform : MonoBehaviour
         if (toggleButton != null)
         {
             // Rotate the button 180 degrees around the Z axis
-            toggleButton.transform.Rotate(0f, 0f, 180f);
+            toggleButton.transform.Rotate(0f, 180f, 0f);
         }
     }
 }
