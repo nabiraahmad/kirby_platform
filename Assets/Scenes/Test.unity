@@ -785,6 +785,7 @@ GameObject:
   - component: {fileID: 1046686549}
   - component: {fileID: 1046686548}
   - component: {fileID: 1046686551}
+  - component: {fileID: 1046686552}
   m_Layer: 0
   m_Name: MovingPlatformButton
   m_TagString: Untagged
@@ -908,6 +909,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d27e2bca2519a40a0b352fbffaa78f4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  linkedPlatform: {fileID: 15048524}
+--- !u!114 &1046686552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046686547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9433bb81063064b9db08cfbc0a677392, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   linkedPlatform: {fileID: 15048524}
