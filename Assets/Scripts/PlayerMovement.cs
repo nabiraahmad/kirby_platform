@@ -8,6 +8,8 @@ public class PlayerMovement : MonoBehaviour
     public float jumpForce = 10f;
     private float moveInput;
     private bool isGrounded;
+    private AudioSource audioSource;
+    public AudioClip deathSound;
 
     private Rigidbody2D rb;
     private Animator anim;  
@@ -16,12 +18,16 @@ public class PlayerMovement : MonoBehaviour
     public float groundCheckRadius = 0.3f; 
     public LayerMask groundLayer;
 
+    public Transform loseZoneCheck; // This is where we will check if Kirby falls off
+    public float fallThreshold = -10f;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
 
         anim = transform.Find("kirbySprite").GetComponent<Animator>();
         spriteRenderer = transform.Find("kirbySprite").GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -54,6 +60,15 @@ public class PlayerMovement : MonoBehaviour
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce); 
                 isGrounded = false;  
             }
+        
+        if (transform.position.y < fallThreshold)
+        {
+            // Play death sound
+            if (deathSound != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(deathSound); // Play the death sound once
+            }
+        }
         
     }
 
