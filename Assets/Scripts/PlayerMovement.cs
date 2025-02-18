@@ -28,12 +28,12 @@ public class PlayerMovement : MonoBehaviour
     {
           if (Input.GetKeyDown(KeyCode.Space))
     {
-        Debug.Log("Space key was pressed!");
+        //Debug.Log("Space key was pressed!");
     }
     
     if (Input.GetKey(KeyCode.Space))
     {
-        Debug.Log("Space key is being held down!");
+        //Debug.Log("Space key is being held down!");
     }
         moveInput = Input.GetAxis("Horizontal");
 
@@ -60,8 +60,8 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-        Debug.Log("Is Grounded: " + isGrounded);
-        Debug.Log("Velocity: " + rb.linearVelocity);
+        //Debug.Log("Is Grounded: " + isGrounded);
+        //Debug.Log("Velocity: " + rb.linearVelocity);
         Debug.DrawRay(groundCheck.position, Vector2.down * groundCheckRadius, Color.red, 0.1f);
 
         if (isGrounded)
