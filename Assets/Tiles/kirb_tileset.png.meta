@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 220a17b76007f403d9c437b85603bf43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3624713238889380114
+    second: kirb_tileset_0
+  - first:
+      213: -4664806889419358964
+    second: kirb_tileset_1
+  - first:
+      213: -1410081847724343246
+    second: kirb_tileset_2
+  - first:
+      213: -2651533017728580203
+    second: kirb_tileset_3
+  - first:
+      213: -5321021837244329049
+    second: kirb_tileset_4
+  - first:
+      213: 65957589745136474
+    second: kirb_tileset_5
+  - first:
+      213: -4920122840960720590
+    second: kirb_tileset_6
+  - first:
+      213: -1721150498472766571
+    second: kirb_tileset_7
+  - first:
+      213: 1464375838519726893
+    second: kirb_tileset_8
+  - first:
+      213: -6421413598568635041
+    second: kirb_tileset_9
+  - first:
+      213: 842172318539274094
+    second: kirb_tileset_10
+  - first:
+      213: 5805959413648596477
+    second: kirb_tileset_11
+  - first:
+      213: 4887051985831965074
+    second: kirb_tileset_12
+  - first:
+      213: 5604770094784595261
+    second: kirb_tileset_13
+  - first:
+      213: -5631577921962339582
+    second: kirb_tileset_14
+  - first:
+      213: 6797609884307017861
+    second: kirb_tileset_15
+  - first:
+      213: 3096893765349432922
+    second: kirb_tileset_16
+  - first:
+      213: -7287033169236166661
+    second: kirb_tileset_17
+  - first:
+      213: 2047177458633245108
+    second: kirb_tileset_18
+  - first:
+      213: -4584081798172165069
+    second: kirb_tileset_19
+  - first:
+      213: -7209074155238715185
+    second: kirb_tileset_20
+  - first:
+      213: -6445922889445673021
+    second: kirb_tileset_21
+  - first:
+      213: -1255393084541767635
+    second: kirb_tileset_22
+  - first:
+      213: -5047856395582285258
+    second: kirb_tileset_23
+  - first:
+      213: 6812981326369907290
+    second: kirb_tileset_24
+  - first:
+      213: -2765793137743909512
+    second: kirb_tileset_25
+  - first:
+      213: -3840995416931987352
+    second: kirb_tileset_26
+  - first:
+      213: 7911014807987179768
+    second: kirb_tileset_27
+  - first:
+      213: -2379354677670366202
+    second: kirb_tileset_28
+  - first:
+      213: 5556012982946557208
+    second: kirb_tileset_29
+  - first:
+      213: 164034221440541169
+    second: kirb_tileset_30
+  - first:
+      213: 3793511797245855762
+    second: kirb_tileset_31
+  - first:
+      213: -6330919361183016781
+    second: kirb_tileset_32
+  - first:
+      213: 6538281716582751319
+    second: kirb_tileset_33
+  - first:
+      213: -3462994661452069244
+    second: kirb_tileset_34
+  - first:
+      213: -7557043061060329069
+    second: kirb_tileset_35
+  - first:
+      213: 5014548622331684546
+    second: kirb_tileset_36
+  - first:
+      213: -6599041070065970190
+    second: kirb_tileset_37
+  - first:
+      213: 1950073797834844215
+    second: kirb_tileset_38
+  - first:
+      213: 2043808328368220031
+    second: kirb_tileset_39
+  - first:
+      213: -8259610455102780246
+    second: kirb_tileset_40
+  - first:
+      213: 5052165331912392813
+    second: kirb_tileset_41
+  - first:
+      213: 8208856460419516010
+    second: kirb_tileset_42
+  - first:
+      213: 2831493727072871487
+    second: kirb_tileset_43
+  - first:
+      213: 7282425811938284708
+    second: kirb_tileset_44
+  - first:
+      213: -8934537038595827502
+    second: kirb_tileset_45
+  - first:
+      213: -6427234672565235977
+    second: kirb_tileset_46
+  - first:
+      213: -4406550265268416232
+    second: kirb_tileset_47
+  - first:
+      213: 6265931194896679862
+    second: kirb_tileset_48
+  - first:
+      213: 3532137311361577523
+    second: kirb_tileset_49
+  - first:
+      213: -6744949011923901663
+    second: kirb_tileset_50
+  - first:
+      213: -7936772470642820558
+    second: kirb_tileset_51
+  - first:
+      213: -5583108171422272478
+    second: kirb_tileset_52
+  - first:
+      213: -7171758527884211390
+    second: kirb_tileset_53
+  - first:
+      213: 7744984759656500262
+    second: kirb_tileset_54
+  - first:
+      213: -677347453474854720
+    second: kirb_tileset_55
+  - first:
+      213: -2065066434058952560
+    second: kirb_tileset_56
+  - first:
+      213: 1990307168094698765
+    second: kirb_tileset_57
+  - first:
+      213: -6671936001169127348
+    second: kirb_tileset_58
+  - first:
+      213: -6144468342400597356
+    second: kirb_tileset_59
+  - first:
+      213: 8370641156372538115
+    second: kirb_tileset_60
+  - first:
+      213: 4958380170135946828
+    second: kirb_tileset_61
+  - first:
+      213: -6549874595313680622
+    second: kirb_tileset_62
+  - first:
+      213: 1405105342145256337
+    second: kirb_tileset_63
+  - first:
+      213: -7628485250095883715
+    second: kirb_tileset_64
+  - first:
+      213: 8050454393665728675
+    second: kirb_tileset_65
+  - first:
+      213: -1811998861522499917
+    second: kirb_tileset_66
+  - first:
+      213: 750115842896410028
+    second: kirb_tileset_67
+  - first:
+      213: -8651592100785916891
+    second: kirb_tileset_68
+  - first:
+      213: 1505412505975075915
+    second: kirb_tileset_69
+  - first:
+      213: -489723516460464818
+    second: kirb_tileset_70
+  - first:
+      213: 6970895721882039087
+    second: kirb_tileset_71
+  - first:
+      213: 8289363045488178843
+    second: kirb_tileset_72
+  - first:
+      213: 7655241677256753807
+    second: kirb_tileset_73
+  - first:
+      213: -8511165857993616781
+    second: kirb_tileset_74
+  - first:
+      213: -5114703071535504323
+    second: kirb_tileset_75
+  - first:
+      213: -8927433705090364887
+    second: kirb_tileset_76
+  - first:
+      213: 3555074632118256549
+    second: kirb_tileset_77
+  - first:
+      213: -3612307143171117438
+    second: kirb_tileset_78
+  - first:
+      213: 2296699374494350379
+    second: kirb_tileset_79
+  - first:
+      213: 9065809233787896276
+    second: kirb_tileset_80
+  - first:
+      213: 3086735060873666760
+    second: kirb_tileset_81
+  - first:
+      213: -4931464222420388354
+    second: kirb_tileset_82
+  - first:
+      213: -4164371790684980022
+    second: kirb_tileset_83
+  - first:
+      213: -7162957848865848466
+    second: kirb_tileset_84
+  - first:
+      213: 8729571950425314887
+    second: kirb_tileset_85
+  - first:
+      213: -1527072514196059948
+    second: kirb_tileset_86
+  - first:
+      213: 2578520381690813922
+    second: kirb_tileset_87
+  - first:
+      213: -8372237876108810336
+    second: kirb_tileset_88
+  - first:
+      213: -4553993250185598323
+    second: kirb_tileset_89
+  - first:
+      213: -6740027962445829507
+    second: kirb_tileset_90
+  - first:
+      213: -7990874432816493
+    second: kirb_tileset_91
+  - first:
+      213: 5839185275702658784
+    second: kirb_tileset_92
+  - first:
+      213: 580420802274867075
+    second: kirb_tileset_93
+  - first:
+      213: -2917076161546996082
+    second: kirb_tileset_94
+  - first:
+      213: -8861679538043243367
+    second: kirb_tileset_95
+  - first:
+      213: -8381850159169369657
+    second: kirb_tileset_96
+  - first:
+      213: 5075079294348031952
+    second: kirb_tileset_97
+  - first:
+      213: 5335124811427210252
+    second: kirb_tileset_98
+  - first:
+      213: 5095216282437369968
+    second: kirb_tileset_99
+  - first:
+      213: -4667743883381020284
+    second: kirb_tileset_100
+  - first:
+      213: 3240006177092098270
+    second: kirb_tileset_101
+  - first:
+      213: -7997067452759883758
+    second: kirb_tileset_102
+  - first:
+      213: -7842895933432568939
+    second: kirb_tileset_103
+  - first:
+      213: 132181289854291493
+    second: kirb_tileset_104
+  - first:
+      213: -9052096312890132396
+    second: kirb_tileset_105
+  - first:
+      213: -2473271020057506034
+    second: kirb_tileset_106
+  - first:
+      213: 4956231405870337655
+    second: kirb_tileset_107
+  - first:
+      213: -8587173315825753083
+    second: kirb_tileset_108
+  - first:
+      213: -8076450704056339716
+    second: kirb_tileset_109
+  - first:
+      213: 3464021078206275015
+    second: kirb_tileset_110
+  - first:
+      213: -3866967712810090905
+    second: kirb_tileset_111
+  - first:
+      213: 6143338618805648497
+    second: kirb_tileset_112
+  - first:
+      213: 1875287233757812531
+    second: kirb_tileset_113
+  - first:
+      213: 2840384946049907354
+    second: kirb_tileset_114
+  - first:
+      213: 3564636247715136288
+    second: kirb_tileset_115
+  - first:
+      213: 5985665788221847946
+    second: kirb_tileset_116
+  - first:
+      213: -5527043198613229221
+    second: kirb_tileset_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kirb_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c757838e62bdc0800000000000000
+      internalID: -3624713238889380114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d3d5a69d6434fb0800000000000000
+      internalID: -4664806889419358964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2300a2ac7026e6ce0800000000000000
+      internalID: -1410081847724343246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5958110d4ccd33bd0800000000000000
+      internalID: -2651533017728580203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a394fcb4dee726b0800000000000000
+      internalID: -5321021837244329049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53fff214145ae000800000000000000
+      internalID: 65957589745136474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2312045185638bbb0800000000000000
+      internalID: -4920122840960720590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5935b8d9dbe3d18e0800000000000000
+      internalID: -1721150498472766571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2312a80112825410800000000000000
+      internalID: 1464375838519726893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55247daa5e82e6a0800000000000000
+      internalID: -6421413598568635041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67533ef24fffab00800000000000000
+      internalID: 842172318539274094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd1cde4359e29050800000000000000
+      internalID: 5805959413648596477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b16e63eb42d340800000000000000
+      internalID: 4887051985831965074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d354e53b4b428cd40800000000000000
+      internalID: 5604770094784595261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2039084a7bd98d1b0800000000000000
+      internalID: -5631577921962339582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580ddcbac26f55e50800000000000000
+      internalID: 6797609884307017861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e56c6b8706afa20800000000000000
+      internalID: 3096893765349432922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf77031e0f14fda90800000000000000
+      internalID: -7287033169236166661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1850e5d09096c10800000000000000
+      internalID: 2047177458633245108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c3d9e54e11260c0800000000000000
+      internalID: -4584081798172165069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc01c89404934fb90800000000000000
+      internalID: -7209074155238715185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7f705b84b7b86a0800000000000000
+      internalID: -6445922889445673021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20f76614a2f39ee0800000000000000
+      internalID: -1255393084541767635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a52285a5962f9b0800000000000000
+      internalID: -5047856395582285258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52e5ab6b629c8e50800000000000000
+      internalID: 6812981326369907290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87daf868bcded99d0800000000000000
+      internalID: -2765793137743909512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8609dddc40b02bac0800000000000000
+      internalID: -3840995416931987352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05ee2bd0299cd60800000000000000
+      internalID: 7911014807987179768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6043bcae685dafed0800000000000000
+      internalID: -2379354677670366202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81decf7fe5cea1d40800000000000000
+      internalID: 5556012982946557208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1a8fb5144c64200800000000000000
+      internalID: 164034221440541169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218c71671e245a430800000000000000
+      internalID: 3793511797245855762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b81b07326e0428a0800000000000000
+      internalID: -6330919361183016781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c98567494acba50800000000000000
+      internalID: 6538281716582751319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486431104b8f0ffc0800000000000000
+      internalID: -3462994661452069244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3912b29ff5dff1790800000000000000
+      internalID: -7557043061060329069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6210f5761479540800000000000000
+      internalID: 5014548622331684546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f311882c1f7b64a0800000000000000
+      internalID: -6599041070065970190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7382eb589cd001b10800000000000000
+      internalID: 1950073797834844215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f776f5998d01d5c10800000000000000
+      internalID: 2043808328368220031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac0f786d08ff5d80800000000000000
+      internalID: -8259610455102780246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608e231a95ec1640800000000000000
+      internalID: 5052165331912392813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66c9775577bbe170800000000000000
+      internalID: 8208856460419516010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34ece9fa8c7b4720800000000000000
+      internalID: 2831493727072871487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a497b721bf501560800000000000000
+      internalID: 7282425811938284708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8dced86e5220480800000000000000
+      internalID: -8934537038595827502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fecca54e10edc6a0800000000000000
+      internalID: -6427234672565235977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811d5c171e9c8d2c0800000000000000
+      internalID: -4406550265268416232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b30bd2393f05f650800000000000000
+      internalID: 6265931194896679862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3323c9dab2ca40130800000000000000
+      internalID: 3532137311361577523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12367242c902562a0800000000000000
+      internalID: -6744949011923901663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a3c302d7bead190800000000000000
+      internalID: -7936772470642820558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2247bcbd2b0d482b0800000000000000
+      internalID: -5583108171422272478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b4592dd9bc87c90800000000000000
+      internalID: -7171758527884211390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cc32eaa96bb7b60800000000000000
+      internalID: 7744984759656500262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 68
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8ad1e64149996f0800000000000000
+      internalID: -677347453474854720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0906558f4096753e0800000000000000
+      internalID: -2065066434058952560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0db23403ddfe9b10800000000000000
+      internalID: 1990307168094698765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c488c2e6e858863a0800000000000000
+      internalID: -6671936001169127348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492449de8967abaa0800000000000000
+      internalID: -6144468342400597356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303a9db38cd7a2470800000000000000
+      internalID: 8370641156372538115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c464b4e7e74bfc440800000000000000
+      internalID: 4958380170135946828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ff8fe12cb2a15a0800000000000000
+      internalID: -6549874595313680622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b52963ddfef7310800000000000000
+      internalID: 1405105342145256337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a5abd151d222690800000000000000
+      internalID: -7628485250095883715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0bdee2e95f8bf60800000000000000
+      internalID: 8050454393665728675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b60a85c2ac7ad6e0800000000000000
+      internalID: -1811998861522499917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_67
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5bb348262f86a00800000000000000
+      internalID: 750115842896410028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 57
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524741b82de5fe780800000000000000
+      internalID: -8651592100785916891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_69
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 57
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44331bb2bc44e410800000000000000
+      internalID: 1505412505975075915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 59
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4508337e072439f0800000000000000
+      internalID: -489723516460464818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 59
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23b115c9b89db060800000000000000
+      internalID: 6970895721882039087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 59
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96b29c55cbb90370800000000000000
+      internalID: 8289363045488178843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_73
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 57
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8287aa0fb1ec3a60800000000000000
+      internalID: 7655241677256753807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729bd90fb342e980800000000000000
+      internalID: -8511165857993616781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e681c7ace409b0800000000000000
+      internalID: -5114703071535504323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a4d3448526b1480800000000000000
+      internalID: -8927433705090364887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_77
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a34965da89265130800000000000000
+      internalID: 3555074632118256549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eeda7cac18eddc0800000000000000
+      internalID: -3612307143171117438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cf894a9e38fdf10800000000000000
+      internalID: 2296699374494350379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d14265277930dd70800000000000000
+      internalID: 9065809233787896276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c06e130f2946da20800000000000000
+      internalID: 3086735060873666760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5b510fa6bef8bb0800000000000000
+      internalID: -4931464222420388354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc709f8bed2536c0800000000000000
+      internalID: -4164371790684980022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63414599cf089c90800000000000000
+      internalID: -7162957848865848466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_85
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 40
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746905a007ba52970800000000000000
+      internalID: 8729571950425314887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8c41d93afbecae0800000000000000
+      internalID: -1527072514196059948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed19c420aeb8c320800000000000000
+      internalID: 2578520381690813922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7a67b7206dfcb80800000000000000
+      internalID: -8372237876108810336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a292d5447fcc0c0800000000000000
+      internalID: -4553993250185598323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a6732474c9672a0800000000000000
+      internalID: -6740027962445829507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39abcff875c93eff0800000000000000
+      internalID: -7990874432816493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c2f72214f80150800000000000000
+      internalID: 5839185275702658784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_93
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38737dbf4a11e0800800000000000000
+      internalID: 580420802274867075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e863b38bfa67487d0800000000000000
+      internalID: -2917076161546996082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b59d496df40580800000000000000
+      internalID: -8861679538043243367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9882e60bfadab80800000000000000
+      internalID: -8381850159169369657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_97
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7fd82babd4e6640800000000000000
+      internalID: 5075079294348031952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_98
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04ed71dfbb2a0a40800000000000000
+      internalID: 5335124811427210252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 27
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07047789638d5b640800000000000000
+      internalID: 5095216282437369968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_100
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 27
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48962983ba7d83fb0800000000000000
+      internalID: -4667743883381020284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_101
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 27
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed855a7a370d6fc20800000000000000
+      internalID: 3240006177092098270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210c861a585b40190800000000000000
+      internalID: -7997067452759883758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5936565b3bf682390800000000000000
+      internalID: -7842895933432568939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_104
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ec7bbce2a95d100800000000000000
+      internalID: 132181289854291493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587f8d0d5e706280800000000000000
+      internalID: -9052096312890132396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f44387c1d2dadd0800000000000000
+      internalID: -2473271020057506034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_107
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4983543218c440800000000000000
+      internalID: 4956231405870337655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_108
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5042e75bd5b34d880800000000000000
+      internalID: -8587173315825753083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_109
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b4c220eeaaef80800000000000000
+      internalID: -8076450704056339716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_110
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd53f441dca21030800000000000000
+      internalID: 3464021078206275015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_111
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ebc007a55c55ac0800000000000000
+      internalID: -3866967712810090905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c79dccce5814550800000000000000
+      internalID: 6143338618805648497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_113
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33795fbadcb560a10800000000000000
+      internalID: 1875287233757812531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_114
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9afba63f031b6720800000000000000
+      internalID: 2840384946049907354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_115
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023ca82f7c1287130800000000000000
+      internalID: 3564636247715136288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89fb2b225b511350800000000000000
+      internalID: 5985665788221847946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirb_tileset_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b517b609e7ffb43b0800000000000000
+      internalID: -5527043198613229221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 13dd520468db64fae86d44dc889fd0b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kirb_tileset_0: -3624713238889380114
+      kirb_tileset_1: -4664806889419358964
+      kirb_tileset_10: 842172318539274094
+      kirb_tileset_100: -4667743883381020284
+      kirb_tileset_101: 3240006177092098270
+      kirb_tileset_102: -7997067452759883758
+      kirb_tileset_103: -7842895933432568939
+      kirb_tileset_104: 132181289854291493
+      kirb_tileset_105: -9052096312890132396
+      kirb_tileset_106: -2473271020057506034
+      kirb_tileset_107: 4956231405870337655
+      kirb_tileset_108: -8587173315825753083
+      kirb_tileset_109: -8076450704056339716
+      kirb_tileset_11: 5805959413648596477
+      kirb_tileset_110: 3464021078206275015
+      kirb_tileset_111: -3866967712810090905
+      kirb_tileset_112: 6143338618805648497
+      kirb_tileset_113: 1875287233757812531
+      kirb_tileset_114: 2840384946049907354
+      kirb_tileset_115: 3564636247715136288
+      kirb_tileset_116: 5985665788221847946
+      kirb_tileset_117: -5527043198613229221
+      kirb_tileset_12: 4887051985831965074
+      kirb_tileset_13: 5604770094784595261
+      kirb_tileset_14: -5631577921962339582
+      kirb_tileset_15: 6797609884307017861
+      kirb_tileset_16: 3096893765349432922
+      kirb_tileset_17: -7287033169236166661
+      kirb_tileset_18: 2047177458633245108
+      kirb_tileset_19: -4584081798172165069
+      kirb_tileset_2: -1410081847724343246
+      kirb_tileset_20: -7209074155238715185
+      kirb_tileset_21: -6445922889445673021
+      kirb_tileset_22: -1255393084541767635
+      kirb_tileset_23: -5047856395582285258
+      kirb_tileset_24: 6812981326369907290
+      kirb_tileset_25: -2765793137743909512
+      kirb_tileset_26: -3840995416931987352
+      kirb_tileset_27: 7911014807987179768
+      kirb_tileset_28: -2379354677670366202
+      kirb_tileset_29: 5556012982946557208
+      kirb_tileset_3: -2651533017728580203
+      kirb_tileset_30: 164034221440541169
+      kirb_tileset_31: 3793511797245855762
+      kirb_tileset_32: -6330919361183016781
+      kirb_tileset_33: 6538281716582751319
+      kirb_tileset_34: -3462994661452069244
+      kirb_tileset_35: -7557043061060329069
+      kirb_tileset_36: 5014548622331684546
+      kirb_tileset_37: -6599041070065970190
+      kirb_tileset_38: 1950073797834844215
+      kirb_tileset_39: 2043808328368220031
+      kirb_tileset_4: -5321021837244329049
+      kirb_tileset_40: -8259610455102780246
+      kirb_tileset_41: 5052165331912392813
+      kirb_tileset_42: 8208856460419516010
+      kirb_tileset_43: 2831493727072871487
+      kirb_tileset_44: 7282425811938284708
+      kirb_tileset_45: -8934537038595827502
+      kirb_tileset_46: -6427234672565235977
+      kirb_tileset_47: -4406550265268416232
+      kirb_tileset_48: 6265931194896679862
+      kirb_tileset_49: 3532137311361577523
+      kirb_tileset_5: 65957589745136474
+      kirb_tileset_50: -6744949011923901663
+      kirb_tileset_51: -7936772470642820558
+      kirb_tileset_52: -5583108171422272478
+      kirb_tileset_53: -7171758527884211390
+      kirb_tileset_54: 7744984759656500262
+      kirb_tileset_55: -677347453474854720
+      kirb_tileset_56: -2065066434058952560
+      kirb_tileset_57: 1990307168094698765
+      kirb_tileset_58: -6671936001169127348
+      kirb_tileset_59: -6144468342400597356
+      kirb_tileset_6: -4920122840960720590
+      kirb_tileset_60: 8370641156372538115
+      kirb_tileset_61: 4958380170135946828
+      kirb_tileset_62: -6549874595313680622
+      kirb_tileset_63: 1405105342145256337
+      kirb_tileset_64: -7628485250095883715
+      kirb_tileset_65: 8050454393665728675
+      kirb_tileset_66: -1811998861522499917
+      kirb_tileset_67: 750115842896410028
+      kirb_tileset_68: -8651592100785916891
+      kirb_tileset_69: 1505412505975075915
+      kirb_tileset_7: -1721150498472766571
+      kirb_tileset_70: -489723516460464818
+      kirb_tileset_71: 6970895721882039087
+      kirb_tileset_72: 8289363045488178843
+      kirb_tileset_73: 7655241677256753807
+      kirb_tileset_74: -8511165857993616781
+      kirb_tileset_75: -5114703071535504323
+      kirb_tileset_76: -8927433705090364887
+      kirb_tileset_77: 3555074632118256549
+      kirb_tileset_78: -3612307143171117438
+      kirb_tileset_79: 2296699374494350379
+      kirb_tileset_8: 1464375838519726893
+      kirb_tileset_80: 9065809233787896276
+      kirb_tileset_81: 3086735060873666760
+      kirb_tileset_82: -4931464222420388354
+      kirb_tileset_83: -4164371790684980022
+      kirb_tileset_84: -7162957848865848466
+      kirb_tileset_85: 8729571950425314887
+      kirb_tileset_86: -1527072514196059948
+      kirb_tileset_87: 2578520381690813922
+      kirb_tileset_88: -8372237876108810336
+      kirb_tileset_89: -4553993250185598323
+      kirb_tileset_9: -6421413598568635041
+      kirb_tileset_90: -6740027962445829507
+      kirb_tileset_91: -7990874432816493
+      kirb_tileset_92: 5839185275702658784
+      kirb_tileset_93: 580420802274867075
+      kirb_tileset_94: -2917076161546996082
+      kirb_tileset_95: -8861679538043243367
+      kirb_tileset_96: -8381850159169369657
+      kirb_tileset_97: 5075079294348031952
+      kirb_tileset_98: 5335124811427210252
+      kirb_tileset_99: 5095216282437369968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
