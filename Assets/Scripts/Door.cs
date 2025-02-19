@@ -9,7 +9,7 @@ public class Door : MonoBehaviour
     {
         if (other.CompareTag("Player") && PlayerInventory.hasKey)
         {
-            SceneManager.LoadScene(nextLevelName); // Load the next level
+            SceneManager.LoadScene("transitionScene"); // Load the next level
         }
     }
 }
