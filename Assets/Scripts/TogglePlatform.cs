@@ -5,22 +5,25 @@ public class TogglePlatform : MonoBehaviour
     private Collider2D platformCollider;
     private SpriteRenderer spriteRenderer;
 
-    public GameObject toggleButton; // Assign the button GameObject in Inspector
+    public GameObject[] toggleButtons; // Array of buttons that can toggle this platform
     public Color solidButtonColor = Color.green;  // Color when platform is solid
     public Color nonSolidButtonColor = Color.red; // Color when platform is not solid
 
     public bool startSolid = true; // Set initial state in the Inspector
     private bool isSolid;
-    private SpriteRenderer buttonRenderer;
+    private SpriteRenderer[] buttonRenderers;
 
     private void Start()
     {
         platformCollider = GetComponent<Collider2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
-        if (toggleButton != null)
+        // Get all button renderers
+        buttonRenderers = new SpriteRenderer[toggleButtons.Length];
+        for (int i = 0; i < toggleButtons.Length; i++)
         {
-            buttonRenderer = toggleButton.GetComponent<SpriteRenderer>(); // Get button's SpriteRenderer
+            if (toggleButtons[i] != null)
+                buttonRenderers[i] = toggleButtons[i].GetComponent<SpriteRenderer>();
         }
 
         isSolid = startSolid; // Set the initial state
@@ -42,10 +45,13 @@ public class TogglePlatform : MonoBehaviour
         platformColor.a = isSolid ? 1f : 0.3f;
         spriteRenderer.color = platformColor;
 
-        // Change button color
-        if (buttonRenderer != null)
+        // Change button colors
+        foreach (var buttonRenderer in buttonRenderers)
         {
-            buttonRenderer.color = isSolid ? solidButtonColor : nonSolidButtonColor;
+            if (buttonRenderer != null)
+            {
+                buttonRenderer.color = isSolid ? solidButtonColor : nonSolidButtonColor;
+            }
         }
     }
 }
