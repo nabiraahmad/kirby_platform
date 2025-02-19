@@ -23,12 +23,12 @@ public class fallTrigger : MonoBehaviour
     void LoseGame()
     {
         SceneManager.LoadScene("loseScreen");
-        Time.timeScale = 0f; 
+        // Time.timeScale = 0f; 
     }
 
     public void ReplayGame()
     {
-        Time.timeScale = 1f; // Unpause the game
+        // Time.timeScale = 1f; // Unpause the game
         SceneManager.LoadScene("Test"); // Reload the scene to restart
     }
 }
