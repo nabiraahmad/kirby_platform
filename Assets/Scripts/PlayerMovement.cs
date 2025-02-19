@@ -23,8 +23,9 @@ public class PlayerMovement : MonoBehaviour
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
 
+        rb = GetComponent<Rigidbody2D>();
+        rb.linearVelocity = Vector2.zero;
         anim = transform.Find("kirbySprite").GetComponent<Animator>();
         spriteRenderer = transform.Find("kirbySprite").GetComponent<SpriteRenderer>();
         audioSource = GetComponent<AudioSource>();
@@ -32,6 +33,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+
           if (Input.GetKeyDown(KeyCode.Space))
     {
         Debug.Log("Space key was pressed!");

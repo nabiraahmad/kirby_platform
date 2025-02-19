@@ -7,4 +7,9 @@ public class mainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Test"); 
     }
+    public void OnRetryClick()
+    {
+        SceneManager.LoadScene("mainMenu", LoadSceneMode.Single);
+    }
+
 }
