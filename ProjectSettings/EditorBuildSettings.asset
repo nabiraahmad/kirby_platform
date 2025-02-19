@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/transitionScene.unity
     guid: aba173fa7588df1468c9f384cdb59e43
+  - enabled: 1
+    path: Assets/Scenes/winScreen.unity
+    guid: dbebaba00df62934fadc4d6fa4766c2d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

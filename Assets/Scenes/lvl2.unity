@@ -2013,7 +2013,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  jumpForce: 4
+  jumpForce: 7
   deathSound: {fileID: 8300000, guid: 595e9d9c5defd2a4e88a58af4728c782, type: 3}
   groundCheck: {fileID: 366524193}
   groundCheckRadius: 0.3

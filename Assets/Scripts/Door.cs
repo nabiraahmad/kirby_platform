@@ -9,7 +9,21 @@ public class Door : MonoBehaviour
     {
         if (other.CompareTag("Player") && PlayerInventory.hasKey)
         {
-            SceneManager.LoadScene("transitionScene"); // Load the next level
+            string lastLevel = PlayerPrefs.GetString("LastLevel", "Test");
+
+            if (lastLevel == "lvl2")
+            {
+                // If they just completed lvl2, send them to the Win Screen
+                SceneManager.LoadScene("winScreen");
+            }
+            else
+            {
+                // Otherwise, go to the transition scene
+                PlayerPrefs.SetString("LastLevel", "lvl2"); // Save progress
+                PlayerPrefs.Save();
+
+                SceneManager.LoadScene("transitionScene");
+            }
         }
     }
 }

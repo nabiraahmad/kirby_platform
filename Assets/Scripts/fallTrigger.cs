@@ -16,6 +16,10 @@ public class fallTrigger : MonoBehaviour
             {
                 audioSource.PlayOneShot(deathSound); // Play death sound once
             }
+
+            string currentLevel = SceneManager.GetActiveScene().name;
+            PlayerPrefs.SetString("LastLevel", currentLevel);
+            PlayerPrefs.Save(); // Save the last played level
             LoseGame();
         }
     }
